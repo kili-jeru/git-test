@@ -1,2 +1,3 @@
 # git-test
-Hello Odin!
+testing for the odin project
+Hello Odine
